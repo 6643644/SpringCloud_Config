@@ -1,0 +1,8 @@
+#這是Service3的註冊檔案
+#設定Server Port為8993
+server:
+    port:8993
+
+
+
+
