@@ -3,7 +3,7 @@
 server:
     port:8991
 
-
+message: This is a Config-server1 yml file
 
 #設定 Eureka 註冊的路徑    
 eureka:
