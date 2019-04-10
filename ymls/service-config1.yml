@@ -1,7 +1,7 @@
 #這是Service3的註冊檔案
-#設定Server Port為8991
+#設定Server Port為8990
 server:
-    port:8991
+    port:8990
 
 message: This is a Config-server1 yml file
 
