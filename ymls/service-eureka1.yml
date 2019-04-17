@@ -17,3 +17,4 @@ eureka:
             defaultZone: http://localhost:8994/eureka/
 
 
+println "Hello Service-eureka1.yml"
